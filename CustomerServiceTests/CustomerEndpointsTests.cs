@@ -1,6 +1,6 @@
 namespace CustomerServiceTests;
 
-public class UnitTest1
+public class CustomerEndpointsTests
 {
     [Fact]
     public void Test1()
